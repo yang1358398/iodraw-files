@@ -36,7 +36,7 @@
         </mxCell>
         <mxCell id="ytIrjYLptKHZxHC3JIJB-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="380" as="sourcePoint" />
+            <mxPoint x="50" y="380" as="sourcePoint" />
             <mxPoint x="610" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -96,12 +96,12 @@
         </mxCell>
         <mxCell id="ytIrjYLptKHZxHC3JIJB-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="290" as="sourcePoint" />
-            <mxPoint x="130" y="290" as="targetPoint" />
+            <mxPoint x="57" y="290" as="sourcePoint" />
+            <mxPoint x="87" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ytIrjYLptKHZxHC3JIJB-26" value="窗户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="258" width="50" height="30" as="geometry" />
+          <mxGeometry x="50" y="260" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
